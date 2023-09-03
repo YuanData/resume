@@ -1,0 +1,4 @@
+.DS_Store
+tmp/
+resources/_gen/assets/scss/css/main.scss_*.content
+resources/_gen/assets/scss/css/main.scss_*.json

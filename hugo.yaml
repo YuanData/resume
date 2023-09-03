@@ -1,0 +1,48 @@
+baseURL: "/"
+languageCode: "en-us"
+title: "Resume of Alan"
+disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
+theme: "restart"
+
+params:
+  useFontAwesome: true
+  css:
+    - custom.scss
+  header:
+    avatar: avatar.jpg
+    contact: false
+    tagline: true
+    links: true
+  side:
+    - feature: skills
+      widget: word-list
+      style: title-list # list, compact, title-list
+    - feature: languages
+    - feature: education
+  pages:
+    - features:
+        - feature: about
+          title: About Me
+        - feature: experience1
+          title: Experience
+    - features:
+        - feature: experience2
+          title: Experience
+        - feature: projects
+          collection: projects
+        - feature: publications
+          style: IEEE
+        - feature: awards
+        - feature: certificates
+          title: Certifications
+        
+  footer:
+    show: true
+    credits: false
+    footnote: >-
+      Last update in September 2023
+    links:
+      - prefix: Check out my
+        title: GitHub
+        url: 'https://github.com/YuanData/'
+        icon: fab fa-github

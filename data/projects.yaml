@@ -1,0 +1,9 @@
+projects:
+- title: "Side Project 個人專案"
+  link: "https://yuandata.github.io/SharedForm/posts/readme/"
+  details: |
+    使用Go語言撰寫的Web應用程式，可以管理Chat GPT導出的分享連結，讓使用者方便的管理和分享這些Chat GPT生成的連結。
+  links:
+  - title: Available in GitHub
+    url: https://github.com/YuanData/SharedForm
+    icon: fab fa-github

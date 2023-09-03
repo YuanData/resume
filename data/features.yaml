@@ -1,0 +1,64 @@
+about:
+  name: Alan Guo
+  tagline: Software Engineer | Python | Go
+  phone: ""
+  email: 
+  links:
+    - title: YuanData
+      url: https://github.com/YuanData/
+      icon: fab fa-github
+    - title: Side Project 個人專案
+      url: https://yuandata.github.io/SharedForm/posts/readme/
+      icon: fa fa-laptop
+  details: |
+    - 現任職外商Fintech金融科技研發公司。 
+    - Python專業: pytest自動化測試框架，開發維護超過350個自動化測試案例。
+    - Go程式語言: 實作效能測試程序，並用HUGO和Gin實作前後端分離專案。
+
+
+skills:
+  - groupName: Software Development Engineer in Test
+    list:
+      - Python - pytest
+      - Jenkins
+
+  - groupName: Programming
+    list:
+      - Python - FastAPI
+      - Go - Gin, sqlc, mockgen
+      - git - GitHab, GitLab
+
+  - groupName: DevOps
+    list:
+      - docker-compose
+      - MySQL
+
+languages:
+  - name: 中文
+    level: 母語
+
+  - name: English
+    level: "TOEIC: 785"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "AI產業化創新競賽 第二名"
+    subtitle: "由 台灣人工智慧學校 於 2022年1月 頒發"
+  - title: "2020玉山銀行AI挑戰賽"
+    subtitle: "名次在前15%"
+
+certificates:
+  - title: "Backend Master Class [Golang + Postgres + Kubernetes + gRPC]"
+    subtitle: Udemy
+    date: "July 2023"
+    link: https://www.udemy.com/certificate/UC-4b69105d-e566-41c0-85b8-b67c7d5e2c4a/
+
+  - title: "Introduction to Redis Data Structures"
+    subtitle: Redis University
+    date: "July 2023"
+    link: https://university.redis.com/certificates/59b6e2f73ea346fdadcd8586110d4288
+
+  - title: "MongoDB for SQL Pros"
+    subtitle: MongoDB
+    date: "June 2023"
+    link: https://learn.mongodb.com/c/q2HKAJcgQdu2Cclw8FK82A
