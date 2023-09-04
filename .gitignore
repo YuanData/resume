@@ -1,4 +1,5 @@
 .DS_Store
+.hugo_build.lock
 tmp/
 resources/_gen/assets/scss/css/main.scss_*.content
 resources/_gen/assets/scss/css/main.scss_*.json
